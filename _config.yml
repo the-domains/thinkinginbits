@@ -1,0 +1,28 @@
+name: Thinking In Bits
+favicon: null
+layout_spectrum: 0.9455439804587513
+typography_spectrum: 0.37778401584364474
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5812492540571839
+  lightness: 0.821337663801387
+  saturation: 0.8270519312936813
+  rhythmicContrast: 0.7864811813924462
+purpose: []
