@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Thinking In Bits]]></title>
+        <description><![CDATA[Thinking In Bits]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Mar 2016 01:36:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Wild West of Finance]]></title>
+            <description><![CDATA[<article><h1>The Wild West of Finance</h1><p>There is a new form of finance evolving as we speak that is changing the way humans move and store value. This new financial paradigm is controlled by no one and is un-censorable. It enables permissionless payments on a global scale, just as the internet has enabled anyone, anywhere to communicate, share ideas, and conduct commerce.</p></article>]]></description>
+            <link>undefinedthe-wild-west-of-finance/index.html</link>
+            <guid isPermaLink="false">3942fd13-c5e7-4294-872f-58e23598d725</guid>
+            <pubDate>Wed, 30 Mar 2016 01:36:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
